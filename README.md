@@ -1,3 +1,28 @@
+> 🇧🇷 Versão em português abaixo.
+
+## Overview
+
+A.R.I.A. (Automated Response & Instruction Assistant) is a local AI
+assistant built in Python. It runs entirely on your own machine using
+Ollama, with no paid API and no cloud dependency.
+
+**Features**
+- Local LLM chat with streaming responses
+- Multiple chats with persistent long-term memory (saved as JSON)
+- Voice input (push-to-talk, Whisper) and spoken replies (text-to-speech)
+- Text file attachments (.txt, .md, .py, .csv, .json, .log, .yaml)
+- Customizable personality via a simple config file
+- Desktop interface built with ttkbootstrap
+
+**Tech:** Python, Ollama, faster-whisper, pyttsx3, ttkbootstrap
+
+**Status:** Core chat, voice and file features work. PDF/DOCX support,
+tool permissions and intent routing are planned and scaffolded in the
+project structure.
+
+**Quick start:** see the Installation and Rodando sections below
+(requires Python 3.10+ and Ollama).
+
 # A.R.I.A. — Automated Response & Instruction Assistant
 
 Assistente virtual local: conversa por texto e voz, anexo de arquivos,
