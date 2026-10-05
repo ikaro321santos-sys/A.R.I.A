@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Conversas são dados pessoais — não sobem pro repositório
+conversas/
