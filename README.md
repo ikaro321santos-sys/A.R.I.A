@@ -22,9 +22,9 @@ project structure.
 
 **Quick start:** see the Installation and Rodando sections below
 (requires Python 3.10+ and Ollama).
-![A.R.I.A demo](demo.gif)
-# A.R.I.A. — Automated Response & Instruction Assistant
 
+# A.R.I.A. — Automated Response & Instruction Assistant
+![A.R.I.A demo](demo.gif)
 Assistente virtual local: conversa por texto e voz, anexo de arquivos,
 memória de longo prazo e personalidade configurável. Tudo rodando na
 sua máquina — sem cota, sem API paga, sem depender de nuvem.
