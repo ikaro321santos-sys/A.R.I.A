@@ -109,6 +109,7 @@ idioma, ou a velocidade da fala — tudo centralizado em `core/config.py`.
 ## Rodando
 
 ```bash
+cd ~/aria_central
 source venv/bin/activate
 python main.py
 ```
